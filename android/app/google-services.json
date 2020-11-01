@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "851201783700",
+    "firebase_url": "https://scholarchat-5e6f0.firebaseio.com",
+    "project_id": "scholarchat-5e6f0",
+    "storage_bucket": "scholarchat-5e6f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851201783700:android:a2ca8b542460ad26fd8181",
+        "android_client_info": {
+          "package_name": "com.example.final_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851201783700-3gda861ce2lm5ostbfo0a8g79e4gmsh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp_GKUIukLpxCjFF7VdVmKo6XMJ6kuXHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851201783700-3gda861ce2lm5ostbfo0a8g79e4gmsh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
